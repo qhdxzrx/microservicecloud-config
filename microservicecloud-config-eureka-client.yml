@@ -22,7 +22,7 @@ eureka:
       defaultZone: http://eureka7001.com:7001/eureka/
 
  ---
- server:
+server:
   port: 7001
 
 spring:
